@@ -4,7 +4,7 @@
 # Our team:
  ## Lead Researcher - Shafee mohammed (shafeem@uci.edu)
   
- ## Reaserch Assistants - 
+ ## Research Assistants - 
   Hanwen 'Henry' Ye
   
   Caleb Pitts
